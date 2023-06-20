@@ -1,5 +1,5 @@
 ## Olá ツ
-### bem-vindo(a) ao meu perfil 🧿
+### bem-vindo(a) ao meu perfil 
 
 - 🇧🇷 São Paulo, Brasil
 - 🗺️ gosto de conhecer e experimentar coisas novas

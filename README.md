@@ -6,4 +6,4 @@
 - 📍 Publicando repositórios e descobrindo novas linguagens
 - 📖 Cursando o 2° ano de informática no Instituto Federal de São Paulo - IFSP
 
-> organize-se e sempre ame sua melhor versão 
+> programming 

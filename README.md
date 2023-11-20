@@ -1,9 +1,9 @@
-## Olá ツ
-### bem-vindo(a) ao meu perfil 
+## Hello ツ
+### Welcome to my profile
 
-- 🇧🇷 São Paulo, Brasil
-- 🗺️ gosto de conhecer e experimentar coisas novas
-- 📍 Publicando repositórios e descobrindo novas linguagens
-- 📖 Cursando o 2° ano de informática no Instituto Federal de São Paulo - IFSP
+- 🇧🇷 São Paulo, Brazil
+- 🗺️ I enjoy getting to know and trying new things
+- 📍 Publishing repositories and discovering new languages
+- 📖 informatics sophomore at Federal Institute - IFSP
 
-> buscando aprender cada vez mais 
+> seeking to learn more and more
